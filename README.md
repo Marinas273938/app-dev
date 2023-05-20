@@ -12,8 +12,8 @@ My first repository
 
 * Series
   * The Good Doctor
-    *I liked the good doctor because I learn a lot about the movie.
+    +I liked the good doctor because I learn a lot about the movie.
   * Lucifer
-    *I like the character of Lucifer that makes me wanted to watch the whole series and the story was interesting.
+    +I like the character of Lucifer that makes me wanted to watch the whole series and the story was interesting.
   * One Piece
-    *One piece was one of the best series that I have been watching because you will see how trust, loyalty, etc. are build in a group of pirates.
+    +One piece was one of the best series that I have been watching because you will see how trust, loyalty, etc. are build in a group of pirates.
